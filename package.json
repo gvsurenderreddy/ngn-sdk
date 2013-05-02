@@ -1,0 +1,35 @@
+{
+  "name": "ngn-sdk",
+  "version": "1.0.0",
+  "description": "The base SDK for NGN.",
+  "main": "lib/bootstrap.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --harmony test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodengn/ngn-sdk.git"
+  },
+  "keywords": [
+    "NGN",
+    "SDK",
+    "model",
+    "functions",
+    "person",
+    "email",
+    "login"
+  ],
+  "author": "Corey Butler <corey@nodengn.com> (http://www.nodengn.com)",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "harmony-reflect": "0.0.4",
+    "hooks": "~0.3.0",
+    "async": "~0.2.8"
+  },
+  "devDependencies": {}
+}
