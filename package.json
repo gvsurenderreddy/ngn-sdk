@@ -27,7 +27,7 @@
   "license": "GPL",
   "readmeFilename": "README.md",
   "dependencies": {
-    "harmony-reflect": "0.0.4",
+    "harmony-reflect": "0.0.9",
     "hooks": "~0.3.0",
     "async": "~0.2.8"
   },
